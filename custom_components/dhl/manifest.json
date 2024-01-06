@@ -1,0 +1,10 @@
+{
+  "domain": "dhl",
+  "name": "DHL",
+  "codeowners": ["@pglagerweij"],
+  "documentation": "https://github.com/pglagerweij/ha-dhl",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/pglagerweij/ha-dhl/issues",
+  "version": "1.0.0"
+}
